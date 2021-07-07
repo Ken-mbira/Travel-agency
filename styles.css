@@ -3,4 +3,18 @@ body{
 }
 .pic{
     list-style-type: none;
+    padding: 10px;
+}
+.pic2{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    color:chocolate;
+}
+.header{
+    color:#f7325e;
+}
+.text{
+    color:#7dc410;
 }
